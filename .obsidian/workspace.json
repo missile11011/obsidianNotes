@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "8ceae09dc4764364",
+    "type": "split",
+    "children": [
+      {
+        "id": "02db1c7af2ebf8c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7944f8cbd45fb9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a2d27923cf28d6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a77bd3a5c5f998b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51f7925c9a1106a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "693bdbba2d3324a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "add",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7acea6be9bc1d25",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb18bfe66efcbdab",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0429a89eb25075c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f264253834a3f68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PHP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e99a77c209c0d76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PHP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a80524d6ecfa68df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f2865a84f226cc02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PHP.md"
+              }
+            }
+          },
+          {
+            "id": "43650772a49e8e36",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e7944f8cbd45fb9a",
+  "lastOpenFiles": [
+    "AWS Dev Associate/AWS Lambda.md",
+    "AWS Dev Associate/Elastic Load Balancing.md",
+    "AWS Dev Associate/Elastic Block Storage (EBS).md",
+    "AWS Dev Associate/AWS Region.md",
+    "2022-11-03.md",
+    "AWS Dev Associate/Elastic Container Service(ECS).md",
+    "AWS Dev Associate/Auto Scaling EC2.md",
+    "AWS Dev Associate/EC2.md",
+    "AWS Dev Associate/IAM (Identity Access Managment).md",
+    "AWS Docs/Amazon Cognito.md"
+  ]
+}

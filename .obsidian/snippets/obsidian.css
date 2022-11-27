@@ -1,0 +1,33 @@
+.highlight-y{
+    background-color: #FBF719;
+    color: black;
+}
+.highlight-b{
+    background-color: #30C5FF;
+    color: black;
+}
+.highlight-g{
+    background-color: #5DE23C;
+    color: black;
+}
+.highlight-m{
+    background-color: #FA3BF0;
+    color: black;
+}
+.title{
+    text-align: center
+}
+.h3{
+    font-size: 1.5em;
+}
+table{
+    border-collapse: collapse;
+    border: 1px solid gray;
+
+}
+td,th{
+border: 1px solid gray;
+}
+.center-text{
+    text-align: center
+}

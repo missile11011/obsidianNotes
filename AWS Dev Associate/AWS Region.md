@@ -1,0 +1,4 @@
+AWS region is a cluster of data centers. AWS region services are region-scoped.
+Posible test question: How to chose a region? Compliance with data governance regulation on data. For data governance you may need permission to move data. Another factor to consider is latency and proximity to the user. Also not all service are available to each region especially new features. Lastly pricing varies from regoin to region. 
+<font class="highlight-b h3">AWS availibility Zones:</font> Regions have many availability zones. Those zones are one or more data centers. For security reasons ther're discret, have reundacy in power, networking, and connectivity, Each availablity zone in that regionis connect and synced to each other. Connectd with hight bandwidth ultra low latency connection. 
+#AWS #AWS-compute #aws-developer-associate
